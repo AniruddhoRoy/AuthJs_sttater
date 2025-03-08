@@ -1,0 +1,1 @@
+export const  Data = {id:"cm7z8sw3800005e58vbvfdy1g",name:"Rodney Dibbert",email:"Granville.Fahey@yahoo.com"}
